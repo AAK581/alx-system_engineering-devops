@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -amn -s--sort=UPPER -p--indicator-style=slash -g--group-directories-first \n
