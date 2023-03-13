@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -darl > count.txt < wc -l
+ls -darl > count.txt >  wc -l 
